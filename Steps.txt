@@ -1,0 +1,4 @@
+1.install python
+2.copy and paste into 
+3.enter path of Data set
+4.Run it
